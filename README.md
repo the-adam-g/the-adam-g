@@ -16,11 +16,12 @@ I am a full stack web developer specialising in the LAMP approach with also a lo
 > Please note that while some projects like Librebook are no longer actively updated any pull requests or urgent maintenence (e.g. patching an exploit) will be seen to.
 
 <h1>Websites</h1>
-findmycode.org - My Portfolio
-Librebook.co.uk - My personal Librebook instance
-Queuedesk.org - Queuedesk documentation
-gisc.findmycode.org - Information on GISC
-
+<ul>
+  <li>findmycode.org - My Portfolio</li>
+  <li>Librebook.co.uk - My personal Librebook instance</li>
+  <li>Queuedesk.org - Queuedesk documentation</li>
+  <li>gisc.findmycode.org - Information on GISC</li>
+</ul>
 <!--
 **the-adam-g/the-adam-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
