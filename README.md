@@ -2,7 +2,14 @@
 
 <h1>Who am I?</h1>
 I am a full stack web developer specialising in the LAMP approach with also a lot of experience with other languages such as python. This github page serves as my professional portfolio containing all of my ready to use public projects.
+<br>
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=the-adam-g)
+<br>
+
+![the-adam-g's GitHub stats](https://github-readme-stats.vercel.app./api?username=the-adam-g&show_icons=true&theme=radical) 
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-adam-g&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&title_color=8b8b8b&text_color=8b8b8b&icon_color=8b8b8b" style="overflow: none;"></img>
 <h1>What am I working on?</h1>
 <ul>
   <li>Librebook - Free, private social media service - No longer active</li>
