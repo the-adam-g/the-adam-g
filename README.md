@@ -16,7 +16,7 @@ I am a full stack web developer specialising in the LAMP approach with also a lo
   <li>Queuedesk - IT ticket management and metric system</li>
   <li>GISC - A custom ISA that is a hybrid of CISC and RISC</li>
   <li>bitincinerator.com - A free file overwriting software for secure file deletion</li>
-  <li>py2php - A python to php code translator</li>
+  <li>BubbleRTE - A rich standalone text editor for markdown</li>
 </ul>
 
 > [!NOTE]
