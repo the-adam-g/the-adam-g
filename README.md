@@ -14,7 +14,7 @@ I am a full stack web developer specialising in the LAMP approach with also a lo
 <ul>
   <li>Librebook - Free, private social media service - No longer active</li>
   <li>Queuedesk - IT ticket management and metric system</li>
-  <li>GISC - A custom ISA that is a hybrid of CISC and RISC</li>
+  <li>GISC - A custom ISA that is a hybrid of CISC and RISC. Includes a logisim design, simulator and assesmbler</li>
   <li>bitincinerator.com - A free file overwriting software for secure file deletion</li>
   <li>BubbleRTE - A rich standalone text editor for markdown</li>
   <li>QDAsset - An inventory management system designed around and for the QueueDesk IT management system however can be used standalone.</li>
