@@ -30,7 +30,7 @@ I am a full stack web developer specialising in the LAMP approach with also a lo
   <li><a href="https://librebook.co.uk/">Librebook.co.uk</a> - My personal Librebook instance</li>
   <li><a href="https://queuedesk.org/">Queuedesk.org</a> - Queuedesk documentation</li>
   <li><a href="https://gisc.findmycode.org/">gisc.findmycode.org</a> - Information on GISC</li>
-  <li><a href="https://findmycode.org/">findmycode.org - Projects and experiments</li>
+  <li><a href="https://findmycode.org/">findmycode.org</a> - Projects and experiments</li>
 </ul>
 <!--
 **the-adam-g/the-adam-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
