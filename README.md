@@ -1,28 +1,27 @@
 ## Hi there 👋
 
 <h1>Who am I?</h1>
-I am a full stack web developer specialising in the LAMP approach with also a lot of experience with other languages such as python. This github page serves as my professional portfolio containing all of my ready to use public projects.
-<br>
+I am a software developer with over five years of programming experience across Python, PHP, JavaScript and C#. My primary focus is full-stack web development using the LAMP stack, alongside projects involving computer architecture, systems development and software engineering.
 
+<br>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=the-adam-g)
 <br>
-
-![the-adam-g's GitHub stats](https://github-readme-stats.vercel.app./api?username=the-adam-g&show_icons=true&theme=github_dark) 
 <br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-adam-g&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&title_color=8b8b8b&text_color=8b8b8b&icon_color=8b8b8b" style="overflow: none;"></img>
 <h1>What am I working on?</h1>
 <ul>
-  <li>Librebook - Free, private social media service - No longer active</li>
+  <li>GISC - A custom ISA that is a hybrid of CISC and RISC. Includes a logisim design, simulator and assembler</li>
   <li>Queuedesk - IT ticket management and metric system</li>
-  <li>GISC - A custom ISA that is a hybrid of CISC and RISC. Includes a logisim design, simulator and assesmbler</li>
+  <li>QDAsset - An inventory management system designed around and for the QueueDesk IT management system however can be used standalone.</li>
+  <li>Librebook - Free, private social media service - No longer active</li>
   <li>bitincinerator.com - A free file overwriting software for secure file deletion</li>
   <li>BubbleRTE - A rich standalone text editor for markdown</li>
-  <li>QDAsset - An inventory management system designed around and for the QueueDesk IT management system however can be used standalone.</li>
-  <li>py2php - A simple python to php code converter [depreciated - not a serious project]</li>
+  <li>py2php - A simple python to php code converter [deprecated - not a serious project]</li>
 </ul>
 
 > [!NOTE]
-> Please note that while some projects like Librebook are no longer actively updated any pull requests or urgent maintenence (e.g. patching an exploit) will be seen to.
+> Please note that while some projects like Librebook are no longer actively updated any pull requests or urgent maintenance (e.g. patching an exploit) will be seen to.
 
 <h1>Websites</h1>
 <ul>
@@ -32,17 +31,3 @@ I am a full stack web developer specialising in the LAMP approach with also a lo
   <li><a href="https://gisc.findmycode.org/">gisc.findmycode.org</a> - Information on GISC</li>
   <li><a href="https://findmycode.org/">findmycode.org</a> - Projects and experiments</li>
 </ul>
-<!--
-**the-adam-g/the-adam-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
